@@ -1,0 +1,33 @@
+#+TITLE: todo test
+#+AUTHOR: Nicholas Huber
+
+
+** DONE brush teeth
+   CLOSED: [2020-10-11 Sun 23:42]
+   - CLOSING NOTE [2020-10-11 Sun 23:42] \\
+     done
+
+* Parent capturing statistics [2/2]
+:PROPERTIES:
+:COOKIE_DATA: todo recursive
+:END:
+** DONE 1
+   CLOSED: [2020-10-12 Mon 00:21]
+** DONE 2
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-10-12 Mon 10:28]
+   :END:
+
+* DONE Organize party [100%]
+  CLOSED: [2020-10-12 Mon 08:40]
+  - CLOSING NOTE [2020-10-12 Mon 08:40] \\
+    done
+  - [X] call people [3/3]
+    - [X] Peter
+    - [X] Sarah
+    - [X] Sam
+  - [X] order food
+  - [X] think about what music to play
+  - [X] talk to neighbors 
+  :LOGBOOK:
+  :END:

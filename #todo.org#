@@ -1,0 +1,111 @@
+#+TITLE: TODO
+#+AUTHOR: Nicholas Huber
+#+DATE: 2020-10-11
+#+TODO: TODO | DONE
+#+TODO: | CANCELED
+
+** TODO [#A] Haircut                    :@home
+   DEADLINE: <2020-10-18 1700 Sun .+7d/14d -2d>
+:LOGBOOK:  
+CLOCK: [2020-11-01 Sun 10:01]--[2020-11-01 Sun 10:01] =>  0:00
+- State "DONE"       from "TODO"       [2020-10-12 Mon 10:09]
+:END:      
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-10-12 Mon 10:09]
+:END:      
+
+** TODO [#C] Trim facial hair           :@home
+   SCHEDULED: <2020-10-19 Mon .+7d>
+:LOGBOOK:  
+CLOCK: [2020-11-01 Sun 10:01]--[2020-11-01 Sun 10:02] =>  0:01
+CLOCK: [2020-11-01 Sun 09:52]--[2020-11-01 Sun 09:52] =>  0:00
+- State "DONE"       from "TODO"       [2020-10-12 Mon 14:30]
+:END:      
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-10-12 Mon 14:30]
+:END:
+   
+** TODO [#A] Clean out fridge           :@home
+   SCHEDULED: <2020-11-29 Sun +7d -2d>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-10-12 Mon 18:54]
+:END:      
+   :PROPERTIES:
+   :LAST_REPEAT: [2020-10-14 Wed 19:42]
+   :END:
+
+** TODO [#B] Workout                    :@home
+   SCHEDULED: <2020-10-15 Thu .+2d>
+:LOGBOOK:  
+CLOCK: [2020-11-01 Sun 10:01]--[2020-11-01 Sun 10:01] =>  0:00
+CLOCK: [2020-11-01 Sun 09:52]--[2020-11-01 Sun 10:01] =>  0:09
+- State "DONE"       from "TODO"       [2020-10-12 Mon 19:21]
+CLOCK: [2020-10-12 Mon 19:09]--[2020-10-12 Mon 19:21] =>  0:12
+- State "DONE"       from "TODO"       [2020-10-12 Mon 18:06]
+CLOCK: [2020-10-12 Mon 17:02]--[2020-10-12 Mon 17:22] =>  0:20
+:END:      
+:PROPERTIES:
+:EFFORT:  1h
+:STYLE: habit
+:LAST_REPEAT: [2020-10-13 Tue 17:36]
+:END:
+
+** TODO [#A] Get ready for work         :@home
+   SCHEDULED: <2020-10-16 Fri +1d>
+:LOGBOOK:  
+CLOCK: [2020-11-01 Sun 10:01]--[2020-11-01 Sun 10:01] =>  0:00
+- State "DONE"       from "TODO"       [2020-10-14 Wed 18:33]
+- State "DONE"       from "TODO"       [2020-10-13 Tue 17:42]
+- State "DONE"       from "TODO"       [2020-10-12 Mon 16:40]
+:END:      
+:PROPERTIES:
+:NOBLOCKING: t
+:STYLE: habit
+:LAST_REPEAT: [2020-10-14 Wed 18:33]
+:END:      
+*** TODO [#A] Wash army clothes         :@home
+    DEADLINE: <2020-10-25 Sun +7d -2d>
+   :LOGBOOK:
+   CLOCK: [2020-11-01 Sun 10:01]--[2020-11-01 Sun 10:01] =>  0:00
+   - State "DONE"       from "TODO"     [2020-10-12 Mon 09:23]
+   :END:      
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-10-12 Mon 16:42]
+:END:      
+** TODO [#B] Study/Research             :@home
+   SCHEDULED: <2020-10-15 Thu .+1d>
+   :LOGBOOK:
+   CLOCK: [2020-11-01 Sun 10:01]--[2020-11-01 Sun 10:01] =>  0:00
+   CLOCK: [2020-11-01 Sun 09:52]--[2020-11-01 Sun 09:52] =>  0:00
+   - State "DONE"       from "TODO"       [2020-10-14 Wed 20:30]
+   CLOCK: [2020-10-14 Wed 18:40]--[2020-10-15 Thu 19:13] => 24:33
+   - State "DONE"       from "TODO"       [2020-10-13 Tue 20:14]
+   CLOCK: [2020-10-13 Tue 17:42]--[2020-10-13 Tue 19:44] => 2:02
+   - State "DONE"       from "TODO"       [2020-10-12 Mon 19:08]
+   CLOCK: [2020-10-12 Mon 18:05]--[2020-10-12 Mon 19:08] =>  1:03
+   :END:
+:PROPERTIES:
+:STYLE: habit
+:ORDERED: t
+:LAST_REPEAT: [2020-10-14 Wed 20:30]
+:END:      
+** TODO [#C] Load dishwasher            :@home
+   SCHEDULED: <2020-10-14 Wed .+1d>
+   :LOGBOOK:
+   CLOCK: [2020-11-01 Sun 10:02]--[2020-11-01 Sun 10:02] =>  0:00
+   CLOCK: [2020-11-01 Sun 10:01]--[2020-11-01 Sun 10:01] =>  0:00
+   - State "DONE"       from "TODO"       [2020-10-13 Tue 19:49]
+   - State "DONE"       from "TODO"       [2020-10-12 Mon 18:31]
+   :END:
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-10-13 Tue 19:49]
+:END:
+** TODO [#A] Cancel adobe               :@home
+DEADLINE: <2020-10-16>
+:LOGBOOK:
+CLOCK: [2020-11-01 Sun 10:01]--[2020-11-01 Sun 10:01] =>  0:00
+:END:

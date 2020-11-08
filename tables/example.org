@@ -1,0 +1,10 @@
+#+PLOT: title:"Citas" ind:1 deps:(3) type:2d with:histograms set:"yrange [0:]"
+| Sede      | Max cities |              | h-index |
+|-----------+------------+--------------+---------|
+| Chile     |     257.72 | WWWWWWWWWWWW |   21.39 |
+| Leeds     |     165.77 | WWWWWW.      |   19.68 |
+| Sao Paolo |      71.00 |              |   11.50 |
+| Stockholm |     134.19 | WWWW.        |   14.33 |
+| Morelia   |     257.56 | WWWWWWWWWWWW |   17.67 |
+#+TBLFM: $3='(orgtbl-ascii-draw $2 71.0 257.72 12)
+
