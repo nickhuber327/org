@@ -1,0 +1,6 @@
+#+TITLE: INBOX
+#+AUTHOR: Nicholas Huber
+*  TODO task2
+:LOGBOOK:
+- State " DONE"     from " TODO"     [2020-11-08 Sun 13:41]
+:END:

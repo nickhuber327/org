@@ -1,10 +1,8 @@
 #+TITLE: PROJECTS
 #+AUTHOR: Nicholas Huber
-* TODO [#B] Work on emacs workflow     :@home
+*  TODO [#B] Work on emacs workflow     :@home
   SCHEDULED: <2020-10-16 Fri .+1d>
    :LOGBOOK:
-   CLOCK: [2020-11-01 Sun 10:01]--[2020-11-01 Sun 10:01] =>  0:00
-   CLOCK: [2020-11-01 Sun 09:52]--[2020-11-01 Sun 09:52] =>  0:00
    - State "DONE"       from "TODO"       [2020-10-15 Thu 19:34]
    CLOCK: [2020-10-15 Thu 19:13]--[2020-10-15 Thu 19:33] =>  0:20
    - State "DONE"       from "TODO"       [2020-10-14 Wed 20:29]

@@ -1,3 +1,0 @@
-#+TITLE: INBOX
-#+AUTHOR: Nicholas Huber
-* TODO task2
